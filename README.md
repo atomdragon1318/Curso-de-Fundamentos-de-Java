@@ -51,7 +51,7 @@ programación orientada a objetos.
 - **Compartir tu trabajo**: [Enviar creación](https://forms.gle/your-form)
 
 ## Recursos adicionales
-- **Código fuente completo**: [Repositorio de GitHub](https://github.com/yourusername/java-fundamentals-course-teamname)
+- **Código fuente completo**: [Repositorio de GitHub](https://github.com/atomdragon1318/Curso-de-Fundamentos-de-Java)
 - **Todas las actividades prácticas**:
 
   | Número de lección | Actividad        | Empezar a programar                                                |

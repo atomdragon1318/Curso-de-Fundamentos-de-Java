@@ -16,22 +16,20 @@ programación orientada a objetos.
 **📂 Repositorio de Código Fuente**: [https://github.com/atomdragon1318/Curso-de-Fundamentos-de-Java](https://github.com/atomdragon1318/Curso-de-Fundamentos-de-Java)
 
 ## Secuencia de la Lección
-### Lección 1: ¿Qué es Java y la Programación? (5 minutos)
-- **Descripción**: Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link1)
-- **Conclusiones clave**: Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras.
-- **Empieza a programar**: [Abrir Replit - Hola mundo](https://replit.com/@your-starter-java)
-### Lección 2: Variables y tipos de datos (8 minutos)
-- **Descripción**: Aprende a almacenar datos en Java usando variables.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
-- **Conclusiones clave**: Usa int, String; declara como int age = 15;
-- **Práctica**: [Clic para programar](https://replit.com/@your-variables-java) 👈 **¡No es necesario registrarse!**
-### Lección 3: Estructuras de control: Decisiones y bucles (10 minutos)
+### Lección 1: Hola Mundo, Variables y Operadores (13 minutos)
+- **Descripción**: Comienza tu viaje en Java. Aprende a mostrar texto en consola (`System.out.println`), guardar datos en variables (`int`, `String`, `double`) y realizar operaciones matemáticas básicas.
+- **Enlace**: [Ver la lección](https://youtu.be/4b-qmt56LXs)
+- **Conclusiones clave**: `System.out.println("Hola");`, `int edad = 10;`, `double suma = 5 + 5;`
+- **Práctica - 1 (Hola Mundo)**: [Haz clic para practicar](https://www.mycompiler.io/view/AmJgubvQwGY) 👈 **¡No necesitas registrarte!**
+- **Práctica - 2 (Variables)**: [Haz clic para practicar](ENLACE-PRACTICA-1-2-AQUÍ) 👈 **¡No necesitas registrarte!**
+- **Práctica - 3 (Operadores)**: [Haz clic para practicar](ENLACE-PRACTICA-1-3-AQUÍ) 👈 **¡No necesitas registrarte!**
+- **Práctica - 4 (Promedio)**: [Haz clic para practicar](ENLACE-PRACTICA-1-4-AQUÍ) 👈 **¡No necesitas registrarte!**
+### Lección 2: Estructuras de control: Decisiones y bucles (10 minutos)
 - **Descripción**: Toma decisiones con if-else y repite tareas con bucles.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
 - **Conclusiones clave**: if (age > 12) {}; for (int i=0; i<5; i++) {}
 - **Práctica**: [Clic para programar](https://jdoodle.com/execute-java-online/your-id) 👈 **¡Inicio inmediato!**
-### Lección 4: Métodos, Entrada/Salida e Introducción a la POO (12 minutos)
+### Lección 3: Métodos, Entrada/Salida e Introducción a la POO (12 minutos)
 - **Descripción**: Crea código reutilizable con métodos, obtén la entrada del usuario e introduce clases/objetos.
 - - **Enlace**: [Ver la lección](https://youtu.be/DxPhuXfblzY)
 - **Conclusiones clave**: `public static void greet() {};` Use `Scanner`; `class Pet { String name; }`
@@ -39,12 +37,12 @@ programación orientada a objetos.
 - **Práctica - 2**: [Haz clic para practicar](https://www.mycompiler.io/view/9mboTffSVg0) 👈 **¡No necesitas registrarte!**
 - **Práctica - 3**: [Haz clic para practicar](https://www.mycompiler.io/view/7GdmhWDcSTQ) 👈 **¡No necesitas registrarte!**
 
-### Lección 5: Fundamentos de POO y programas sencillos (15 minutos)
+### Lección 4: Fundamentos de POO y programas sencillos (15 minutos)
 - **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
 - **Conclusiones clave**: Encapsulación con getters; Construye un simulador de "mascotas".
 - **Proyecto final**: [Crea tu aplicación POO](https://replit.com/@your-final-java) 👈 **¡Guarda y comparte!**
-### Lección 6: Consejos y próximos pasos (10 minutos)
+### Lección 5: Consejos y próximos pasos (10 minutos)
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link6)
 - **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java.

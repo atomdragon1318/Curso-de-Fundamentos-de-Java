@@ -21,9 +21,9 @@ programación orientada a objetos.
 - **Enlace**: [Ver la lección](https://youtu.be/4b-qmt56LXs)
 - **Conclusiones clave**: `System.out.println("Hola");`, `int edad = 10;`, `double suma = 5 + 5;`
 - **Práctica - 1 (Hola Mundo)**: [Haz clic para practicar](https://www.mycompiler.io/view/AmJgubvQwGY) 👈 **¡No necesitas registrarte!**
-- **Práctica - 2 (Variables)**: [Haz clic para practicar](ENLACE-PRACTICA-1-2-AQUÍ) 👈 **¡No necesitas registrarte!**
-- **Práctica - 3 (Operadores)**: [Haz clic para practicar](ENLACE-PRACTICA-1-3-AQUÍ) 👈 **¡No necesitas registrarte!**
-- **Práctica - 4 (Promedio)**: [Haz clic para practicar](ENLACE-PRACTICA-1-4-AQUÍ) 👈 **¡No necesitas registrarte!**
+- **Práctica - 2 (Variables)**: [Haz clic para practicar](https://www.mycompiler.io/view/I1YtHQuaCTT) 👈 **¡No necesitas registrarte!**
+- **Práctica - 3 (Operadores)**: [Haz clic para practicar](https://www.mycompiler.io/view/9e126QXqdgz) 👈 **¡No necesitas registrarte!**
+- **Práctica - 4 (Promedio)**: [Haz clic para practicar](https://www.mycompiler.io/view/3y8649RfmVM) 👈 **¡No necesitas registrarte!**
 ### Lección 2: Estructuras de control: Decisiones y bucles (10 minutos)
 - **Descripción**: Toma decisiones con if-else y repite tareas con bucles.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)

@@ -16,6 +16,7 @@ programación orientada a objetos.
 **📂 Repositorio de Código Fuente**: [https://github.com/atomdragon1318/Curso-de-Fundamentos-de-Java](https://github.com/atomdragon1318/Curso-de-Fundamentos-de-Java)
 
 ## Secuencia de la Lección
+
 ### Lección 1: Hola Mundo, Variables y Operadores (13 minutos)
 - **Descripción**: Comienza tu viaje en Java. Aprende a mostrar texto en consola (`System.out.println`), guardar datos en variables (`int`, `String`, `double`) y realizar operaciones matemáticas básicas.
 - **Enlace**: [Ver la lección](https://youtu.be/4b-qmt56LXs)
@@ -24,11 +25,13 @@ programación orientada a objetos.
 - **Práctica - 2 (Variables)**: [Haz clic para practicar](https://www.mycompiler.io/view/I1YtHQuaCTT) 👈 **¡No necesitas registrarte!**
 - **Práctica - 3 (Operadores)**: [Haz clic para practicar](https://www.mycompiler.io/view/9e126QXqdgz) 👈 **¡No necesitas registrarte!**
 - **Práctica - 4 (Promedio)**: [Haz clic para practicar](https://www.mycompiler.io/view/3y8649RfmVM) 👈 **¡No necesitas registrarte!**
+
 ### Lección 2: Estructuras de control: Decisiones y bucles (10 minutos)
 - **Descripción**: Toma decisiones con if-else y repite tareas con bucles.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
+- **Enlace**: [Ver la lección](https://youtu.be/uo7cIriUuDE)
 - **Conclusiones clave**: if (age > 12) {}; for (int i=0; i<5; i++) {}
 - **Práctica**: [Clic para programar](https://jdoodle.com/execute-java-online/your-id) 👈 **¡Inicio inmediato!**
+
 ### Lección 3: Métodos, Entrada/Salida e Introducción a la POO (12 minutos)
 - **Descripción**: Crea código reutilizable con métodos, obtén la entrada del usuario e introduce clases/objetos.
 - - **Enlace**: [Ver la lección](https://youtu.be/DxPhuXfblzY)
@@ -42,11 +45,12 @@ programación orientada a objetos.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
 - **Conclusiones clave**: Encapsulación con getters; Construye un simulador de "mascotas".
 - **Proyecto final**: [Crea tu aplicación POO](https://replit.com/@your-final-java) 👈 **¡Guarda y comparte!**
+
 ### Lección 5: Consejos y próximos pasos (10 minutos)
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link6)
+- **Enlace**: [Ver la lección](https://youtu.be/lSoK1cz2oZ4)
 - **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java.
-- **Compartir tu trabajo**: [Enviar creación](https://forms.gle/your-form)
+- **Compartir tu trabajo**: [Enviar creación](https://youtu.be/lSoK1cz2oZ4)
 
 ## Recursos adicionales
 - **Código fuente completo**: [Repositorio de GitHub](https://github.com/atomdragon1318/Curso-de-Fundamentos-de-Java)

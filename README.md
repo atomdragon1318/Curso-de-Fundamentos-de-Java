@@ -42,7 +42,7 @@ programación orientada a objetos.
 
 ### Lección 4: Fundamentos de POO y programas sencillos (15 minutos)
 - **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
+- **Enlace**: [Ver la lección](https://youtu.be/SMqY6Sg9u6o)
 - **Conclusiones clave**: Encapsulación con getters; Construye un simulador de "mascotas".
 - **Proyecto final**: [Crea tu aplicación POO](https://replit.com/@your-final-java) 👈 **¡Guarda y comparte!**
 

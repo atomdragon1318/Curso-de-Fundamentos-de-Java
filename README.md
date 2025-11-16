@@ -1,12 +1,20 @@
 # Fundamentos de Java para Principiantes
 ## Resumen del Curso
 Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de la programación con Java, incluyendo
-programación orientada a objetos. **¡No requiere descargas!** Solo abre tu navegador web.
+programación orientada a objetos. 
+
+**¡No requiere descargas!** Solo abre tu navegador web.
+
 **Duración total**: ~60 minutos
+
 **Público Objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
+
 **Prerrequisitos**: Ninguno
+
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
+
 **📂 Repositorio de Código Fuente**: [https://github.com/atomdragon1318/Curso-de-Fundamentos-de-Java](https://github.com/atomdragon1318/Curso-de-Fundamentos-de-Java)
+
 ## Secuencia de la Lección
 ### Lección 1: ¿Qué es Java y la Programación? (5 minutos)
 - **Descripción**: Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar.
@@ -25,9 +33,12 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 - **Práctica**: [Clic para programar](https://jdoodle.com/execute-java-online/your-id) 👈 **¡Inicio inmediato!**
 ### Lección 4: Métodos, Entrada/Salida e Introducción a la POO (12 minutos)
 - **Descripción**: Crea código reutilizable con métodos, obtén la entrada del usuario e introduce clases/objetos.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
-- **Conclusiones clave**: public static void greet() {}; Use Scanner; class Pet { String name; }
-- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/your-gdb-id) 👈 **¡No necesitas registrarte!**
+- - **Enlace**: [Ver la lección](https://youtu.be/DxPhuXfblzY)
+- **Conclusiones clave**: `public static void greet() {};` Use `Scanner`; `class Pet { String name; }`
+- **Práctica - 1**: [Haz clic para practicar](https://www.mycompiler.io/view/C9xsCFfrftq) 👈 **¡No necesitas registrarte!**
+- **Práctica - 2**: [Haz clic para practicar](https://www.mycompiler.io/view/9mboTffSVg0) 👈 **¡No necesitas registrarte!**
+- **Práctica - 3**: [Haz clic para practicar](https://www.mycompiler.io/view/7GdmhWDcSTQ) 👈 **¡No necesitas registrarte!**
+
 ### Lección 5: Fundamentos de POO y programas sencillos (15 minutos)
 - **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
@@ -38,17 +49,18 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link6)
 - **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java.
 - **Compartir tu trabajo**: [Enviar creación](https://forms.gle/your-form)
+
 ## Recursos adicionales
 - **Código fuente completo**: [Repositorio de GitHub](https://github.com/yourusername/java-fundamentals-course-teamname)
 - **Todas las actividades prácticas**:
 
-  | Número de lección | Actividad        | Empezar a programar                                             |
-  |-------------------|------------------|-----------------------------------------------------------------|
-  | 1                 | Hola mundo       | [Replit](https://replit.com/@your-lesson1)                      |
-  | 2                 | Variables        | [Replit](https://replit.com/@your-lesson2)                      |
-  | 3                 | Bucles           | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) |
-  | 4                 | Métodos y clases | [OnlineGDB](https://onlinegdb.com/your-lesson4)                 |
-  | 5                 | Programa OOP     | [Replit](https://replit.com/@your-lesson5)                      |
+  | Número de lección | Actividad        | Empezar a programar                                                |
+  |-------------------|------------------|--------------------------------------------------------------------|
+  | 1                 | Hola mundo       | [mycomplier](https://replit.com/@your-lesson1)                     |
+  | 2                 | Variables        | [mycomplier](https://replit.com/@your-lesson2)                     |
+  | 3                 | Bucles           | [mycomplier](https://jdoodle.com/execute-java-online/your-lesson3) |
+  | 4                 | Métodos y clases | [mycomplier](https://www.mycompiler.io/view/C9xsCFfrftq)           |
+  | 5                 | Programa OOP     | [mycomplier](https://replit.com/@your-lesson5)                     |
 
 - Cuestionario: [Prueba de conocimientos](https://docs.google.com/forms/d/e/1FAIpQLSd-3ersmx5rqr-02iTTagj-mXLoS0_NPWSuKlS71kgcss-C7Q/viewform?usp=publish-editor)
 - Compartir: #JavaBeginners
@@ -59,13 +71,17 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 
 ## 👥 Elaboración
 Universidad Peruana de Ciencias Aplicadas
+
 Carrera de Ingeniería de Software
+
 Período 202520
+
 1ASI0729 Desarrollo de Aplicaciones Open Source
+
 NRC 7380
-**Nombre del equipo**: EternaCare
-**Líder del equipo**: Italo Sebastian Verona Flores - U20221E617
-**Integrantes del equipo**:
+- **Nombre del equipo**: EternaCare
+- **Líder del equipo**: Italo Sebastian Verona Flores - U20221E617
+- **Integrantes del equipo**:
 
 | **Nombre**                             | **Código** |
 |----------------------------------------|------------|

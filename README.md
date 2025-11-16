@@ -56,11 +56,11 @@ programación orientada a objetos.
 
   | Número de lección | Actividad        | Empezar a programar                                                |
   |-------------------|------------------|--------------------------------------------------------------------|
-  | 1                 | Hola mundo       | [mycomplier](https://replit.com/@your-lesson1)                     |
-  | 2                 | Variables        | [mycomplier](https://replit.com/@your-lesson2)                     |
-  | 3                 | Bucles           | [mycomplier](https://jdoodle.com/execute-java-online/your-lesson3) |
-  | 4                 | Métodos y clases | [mycomplier](https://www.mycompiler.io/view/C9xsCFfrftq)           |
-  | 5                 | Programa OOP     | [mycomplier](https://replit.com/@your-lesson5)                     |
+  | 1                 | Hola mundo       | [mycompiler](https://replit.com/@your-lesson1)                     |
+  | 2                 | Variables        | [mycompiler](https://replit.com/@your-lesson2)                     |
+  | 3                 | Bucles           | [mycompiler](https://jdoodle.com/execute-java-online/your-lesson3) |
+  | 4                 | Métodos y clases | [mycompiler](https://www.mycompiler.io/view/C9xsCFfrftq)           |
+  | 5                 | Programa OOP     | [mycompiler](https://replit.com/@your-lesson5)                     |
 
 - Cuestionario: [Prueba de conocimientos](https://docs.google.com/forms/d/e/1FAIpQLSd-3ersmx5rqr-02iTTagj-mXLoS0_NPWSuKlS71kgcss-C7Q/viewform?usp=publish-editor)
 - Compartir: #JavaBeginners

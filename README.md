@@ -30,7 +30,7 @@ programación orientada a objetos.
 - **Descripción**: Toma decisiones con if-else y repite tareas con bucles.
 - **Enlace**: [Ver la lección](https://youtu.be/uo7cIriUuDE)
 - **Conclusiones clave**: if (age > 12) {}; for (int i=0; i<5; i++) {}
-- **Práctica**: [Clic para programar](https://jdoodle.com/execute-java-online/your-id) 👈 **¡Inicio inmediato!**
+- **Práctica**: [Clic para programar](https://www.mycompiler.io/view/3CGJjPsW6xc) 👈 **¡Inicio inmediato!**
 
 ### Lección 3: Métodos, Entrada/Salida e Introducción a la POO (12 minutos)
 - **Descripción**: Crea código reutilizable con métodos, obtén la entrada del usuario e introduce clases/objetos.
@@ -44,27 +44,20 @@ programación orientada a objetos.
 - **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
 - **Enlace**: [Ver la lección](https://youtu.be/SMqY6Sg9u6o)
 - **Conclusiones clave**: Encapsulación con getters; Construye un simulador de "mascotas".
-- **Proyecto final**: [Crea tu aplicación POO](https://replit.com/@your-final-java) 👈 **¡Guarda y comparte!**
+- **Proyecto final**: [Crea tu aplicación POO](https://www.mycompiler.io/view/GsiqvxvhBwO) 👈 **¡Guarda y comparte!**
 
 ### Lección 5: Consejos y próximos pasos (10 minutos)
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
 - **Enlace**: [Ver la lección](https://youtu.be/lSoK1cz2oZ4)
 - **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java.
-- **Compartir tu trabajo**: [Enviar creación](https://youtu.be/lSoK1cz2oZ4)
+- **Compartir tu trabajo**: [Enviar creación](https://www.mycompiler.io/view/2HvktEHCVVs)
 
 ## Recursos adicionales
-- **Código fuente completo**: [Repositorio de GitHub](https://github.com/atomdragon1318/Curso-de-Fundamentos-de-Java)
-- **Todas las actividades prácticas**:
 
-  | Número de lección | Actividad        | Empezar a programar                                                |
-  |-------------------|------------------|--------------------------------------------------------------------|
-  | 1                 | Hola mundo       | [mycompiler](https://replit.com/@your-lesson1)                     |
-  | 2                 | Variables        | [mycompiler](https://replit.com/@your-lesson2)                     |
-  | 3                 | Bucles           | [mycompiler](https://jdoodle.com/execute-java-online/your-lesson3) |
-  | 4                 | Métodos y clases | [mycompiler](https://www.mycompiler.io/view/C9xsCFfrftq)           |
-  | 5                 | Programa OOP     | [mycompiler](https://replit.com/@your-lesson5)                     |
+- **Código fuente completo**: [Repositorio de GitHub](https://github.com/atomdragon1318/Curso-de-Fundamentos-de-Java)
 
 - Cuestionario: [Prueba de conocimientos](https://docs.google.com/forms/d/e/1FAIpQLSd-3ersmx5rqr-02iTTagj-mXLoS0_NPWSuKlS71kgcss-C7Q/viewform?usp=publish-editor)
+
 - Compartir: #JavaBeginners
   
 **¡Gracias por completar el curso!**

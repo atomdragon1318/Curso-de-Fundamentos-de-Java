@@ -50,7 +50,7 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
   | 4                 | Métodos y clases | [OnlineGDB](https://onlinegdb.com/your-lesson4)                 |
   | 5                 | Programa OOP     | [Replit](https://replit.com/@your-lesson5)                      |
 
-- Cuestionario: [Prueba de conocimientos](https://forms.gle/your-quiz)
+- Cuestionario: [Prueba de conocimientos](https://docs.google.com/forms/d/e/1FAIpQLSd-3ersmx5rqr-02iTTagj-mXLoS0_NPWSuKlS71kgcss-C7Q/viewform?usp=publish-editor)
 - Compartir: #JavaBeginners
   
 **¡Gracias por completar el curso!**
@@ -65,7 +65,7 @@ Período 202520
 NRC 7380
 **Nombre del equipo**: EternaCare
 **Líder del equipo**: Italo Sebastian Verona Flores - U20221E617
-**Integrantes del equipo**: [Nombres y Apellidos]:
+**Integrantes del equipo**:
 
 | **Nombre**                             | **Código** |
 |----------------------------------------|------------|
